@@ -179,19 +179,16 @@ One story can answer many questions. Map the angle to the entry point:
 
 ## Competency-to-LP Quick Map
 
-For Amazon-style LP interviews, map actions to principles:
-- Same-day response → **Bias for Action**
-- Walking through every field / root cause → **Dive Deep**
-- Personal ownership of testing or delivery → **Ownership**
-- Commitment to stakeholder + follow-through → **Earn Trust**
-- Connecting work to business strategy → **Think Big / Customer Obsession**
-- Saying no to scope creep or bad ideas → **Have Backbone / Disagree and Commit**
+Map actions to common LP/competency frameworks:
 
-For non-Amazon interviews, map to equivalent competencies:
-- Bias for Action → Decisiveness, Initiative
-- Dive Deep → Analytical Rigor, Attention to Detail
-- Ownership → Accountability, Responsibility
-- Earn Trust → Stakeholder Management, Relationship Building
+| Action | LP Principle | Equivalent Competency |
+|--------|-------------|----------------------|
+| Same-day response | Bias for Action | Decisiveness, Initiative |
+| Walking through every field / root cause | Dive Deep | Analytical Rigor, Attention to Detail |
+| Personal ownership of testing or delivery | Ownership | Accountability, Responsibility |
+| Commitment to stakeholder + follow-through | Earn Trust | Stakeholder Management, Relationship Building |
+| Connecting work to business strategy | Think Big | Strategic Thinking, Customer Focus |
+| Saying no to scope creep or bad ideas | Have Backbone | Courage, Principled Decision-Making |
 
 ---
 

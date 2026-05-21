@@ -12,7 +12,7 @@ This skill turns Claude into an expert behavioral interview coach that helps you
 - Practice under simulated interview conditions
 - Adapt one story to multiple question angles and competencies
 
-Works for Sr PM, Senior BA, Principal, Director, and equivalent roles at any company — including Amazon LP-style interviews.
+Works for Sr PM, Senior BA, Principal, Director, and equivalent roles at any company.
 
 ## Installation
 
@@ -56,7 +56,7 @@ Every answer follows this structure:
 
 Most interview prep focuses on structure. This skill focuses on *impression* — specifically the language upgrades and stakes framing that cause interviewers to look up from their notes. It also includes:
 
-- Amazon LP competency mapping
+- LP/competency framework mapping
 - Delivery coaching checklist
 - Common failure patterns and fixes
 - Practice protocol (minimum 5 passes before a story is "ready")
